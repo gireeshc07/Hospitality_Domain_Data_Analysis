@@ -1,6 +1,6 @@
 # 🏨 Hospitality Domain Data Analysis 🏨
 
-## 📊 Project Name: Hospitality Data Insights - Atliq Grants
+## 📊 Project Name: Hospitality Data Insights - Atliq Grands
 
 ## 🎯 Objectives:
 - Analyze hotel booking trends and guest behaviors.
@@ -30,5 +30,5 @@
 4. **fact_bookings.csv** - Booking transactions, including revenue, guests, and platforms.
 5. **fact_aggregated_bookings.csv** - Booking transactions, including check in date, room category, successful bookings, and capacity.
 
-This project provides a comprehensive **data-driven approach** to enhancing hospitality management for **Atliq Grants**. 🚀
+This project provides a comprehensive **data-driven approach** to enhancing hospitality management for **Atliq Grands**. 🚀
 
